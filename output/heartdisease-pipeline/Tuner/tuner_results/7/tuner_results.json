@@ -1,0 +1,1 @@
+[{"trial_id": "1", "score": 0.27980849146842957, "num_layers": 2, "dense_units": 16, "dropout_rate": 0.5, "learning_rate": 0.001}, {"trial_id": "0", "score": 0.3776489794254303, "num_layers": 1, "dense_units": 16, "dropout_rate": 0.5, "learning_rate": 0.001}]
